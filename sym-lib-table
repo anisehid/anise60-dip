@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "keyboard-rescue")(type "Legacy")(uri "${KIPRJMOD}/keyboard-rescue.lib")(options "")(descr ""))
+  (lib (name "TypeC-24pin")(type "KiCad")(uri "${KIPRJMOD}/lib/TypeC-24pin.kicad_sym")(options "")(descr ""))
+)
